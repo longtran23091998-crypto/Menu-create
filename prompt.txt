@@ -1,0 +1,38 @@
+Đóng vai UI/UX Designer và Front-end Developer.
+
+Dựa trên nội dung website hiện tại, hãy đề xuất một menu điều hướng phù hợp.
+
+Cho biết:
+
+Những mục menu nào nên có
+Thứ tự sắp xếp menu
+Menu nên đặt ở đâu
+Menu ngang hay menu dọc
+
+Giải thích lý do lựa chọn.
+
+Đóng vai HTML Semantic Expert.
+
+Tôi muốn thêm menu vào website.
+
+Hãy giải thích:
+
+Tại sao dùng <nav>
+Tại sao dùng <ul>
+Tại sao dùng <li>
+Tại sao dùng <a>
+
+Viết cấu trúc HTML chuẩn cho menu.
+
+Tôi muốn thêm menu bằng Git Branch.
+
+Hãy hướng dẫn:
+
+Tạo branch mới
+Commit thay đổi
+Push branch lên GitHub
+Tạo Pull Request
+Merge về main
+
+Giải thích mục đích của từng bước.
+
